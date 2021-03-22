@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-100/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-15/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -160,5 +160,15 @@ REVIEW DAY
 * Enumerations
 * Structs
 * Classes
+
+REVIEW DAY
+
+#
+- [x] <b>Day 15</b>
+* Properties
+* Static properties and methods
+* Access control
+* Polymorphism and typecasting
+* Closures
 
 REVIEW DAY
