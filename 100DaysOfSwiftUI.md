@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-15/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-16/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -172,3 +172,15 @@ REVIEW DAY
 * Closures
 
 REVIEW DAY
+
+#
+- [x] <b>Day 16 / Project 1, part one</b>
+* WeSplit: Introduction
+* Understanding the basic structure of a SwiftUI app
+* Creating a form
+* Adding a navigation bar
+* Modifying program state
+* Binding state to user interface controls
+* Creating views in a loop
+
+
