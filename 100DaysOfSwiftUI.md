@@ -1,33 +1,33 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-16/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-17/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
 
 #
  - [x] <b>Day 1</b>
-* Variables..
-* Strings and integers.
-* Multi-line strings.
+* Variables
+* Strings and integers
+* Multi-line strings
 * Doubles and booleans.
-* String interpolation.
-* Constants.
-* Type annotations.
-* Simple types: Summary.
+* String interpolation
+* Constants
+* Type annotations
+* Simple types: Summary
 
 #
  - [x] <b>Day 2</b>
-* Arrays.
-* Sets.
-* Tuples.
-* Arrays vs sets vs tuples.
-* Dictionaries.
+* Arrays
+* Sets
+* Tuples
+* Arrays vs sets vs tuples
+* Dictionaries
 * Dictionary default values.
-* Creating empty collections.
-* Enumerations.
-* Enum associated values.
-* Enum raw values.
-* Complex types: Summary.
+* Creating empty collections
+* Enumerations
+* Enum associated values
+* Enum raw values
+* Complex types: Summary
 
 #
  - [x] <b>Day 3</b>
@@ -182,5 +182,12 @@ REVIEW DAY
 * Modifying program state
 * Binding state to user interface controls
 * Creating views in a loop
+
+#
+- [x] <b>Day 17 / Project 1, part two</b>
+* Reading text from the user with TextField
+* Creating pickers in a form
+* Adding a segmented control for tip percentages
+* Calculating the total per person
 
 
