@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-17/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-18/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -189,5 +189,10 @@ REVIEW DAY
 * Creating pickers in a form
 * Adding a segmented control for tip percentages
 * Calculating the total per person
+
+#
+- [x] <b>Day 18 / Project 1, part three</b>
+* WeSplit: Wrap up
+* Review for Project 1: WeSplit
 
 
