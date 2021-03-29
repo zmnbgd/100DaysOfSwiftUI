@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-18/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-20/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -195,4 +195,14 @@ REVIEW DAY
 * WeSplit: Wrap up
 * Review for Project 1: WeSplit
 
+#
+- [x] <b>Day 19 / Challenge day</b>
 
+#
+- [x] <b>Day 20 / Project 2, part one</b>
+* Guess the Flag: Introduction
+* Using stacks to arrange views
+* Colors and frames
+* Gradients
+* Buttons and images
+* Showing alert messages
