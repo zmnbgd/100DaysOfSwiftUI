@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-21/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-22/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -212,4 +212,9 @@ REVIEW DAY
 * Stacking up buttons
 * Showing the player’s score with an alert
 * Styling our flags
+
+#
+- [x] <b>Day 22 / Project 2, part three</b>
+* Guess the Flag: Wrap up
+* Review for Project 2: Guess the Flag
 
