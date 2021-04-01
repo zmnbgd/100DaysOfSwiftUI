@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-22/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-23/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -218,3 +218,16 @@ REVIEW DAY
 * Guess the Flag: Wrap up
 * Review for Project 2: Guess the Flag
 
+#
+- [x] <b>Day 23 / Project 3, part one</b>
+* Views and modifiers: Introduction
+* Why does SwiftUI use structs for views?
+* What is behind the main SwiftUI view?
+* Why modifier order matters
+* Why does SwiftUI use “some View” for its view type?
+* Conditional modifiers
+* Environment modifiers
+* Views as properties
+* View composition
+* Custom modifiers
+* Custom containers
