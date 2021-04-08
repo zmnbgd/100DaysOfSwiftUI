@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-25/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-26/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -242,3 +242,11 @@ REVIEW DAY
 * What you learned
 * Key points
 * Challenge
+
+#
+- [x] <b>Day 26 / Project 4, part one</b>
+* BetterRest: Introduction
+* Entering numbers with Stepper
+* Selecting dates and times with DatePicker
+* Working with dates
+* Training a model with Create ML
