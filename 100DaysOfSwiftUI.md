@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-26/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-27/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -250,3 +250,9 @@ REVIEW DAY
 * Selecting dates and times with DatePicker
 * Working with dates
 * Training a model with Create ML
+
+#
+- [x] <b>Day 27 / Project 4, part two</b>
+* Building a basic layout
+* Connecting SwiftUI to Core ML
+* Cleaning up the user interface
