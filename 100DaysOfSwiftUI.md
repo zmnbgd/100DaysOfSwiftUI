@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-27/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-28/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -256,3 +256,8 @@ REVIEW DAY
 * Building a basic layout
 * Connecting SwiftUI to Core ML
 * Cleaning up the user interface
+
+#
+- [x] <b>Day 28 / Project 4, part three</b> 
+* BetterRest: Wrap up
+* Review for Project 4: BetterRest
