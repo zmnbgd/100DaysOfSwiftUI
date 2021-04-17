@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-28/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-29/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -261,3 +261,10 @@ REVIEW DAY
 - [x] <b>Day 28 / Project 4, part three</b> 
 * BetterRest: Wrap up
 * Review for Project 4: BetterRest
+
+#
+- [x] <b>Day 29 / Project 5, part one</b> 
+* Word Scramble: Introduction
+* Introducing List, your best friend
+* Loading resources from your app bundle
+* Working with strings
