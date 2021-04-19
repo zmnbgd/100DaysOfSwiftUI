@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-29/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-30/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -268,3 +268,9 @@ REVIEW DAY
 * Introducing List, your best friend
 * Loading resources from your app bundle
 * Working with strings
+
+#
+- [x] <b>Day 30 / Project 5, part two</b> 
+* Adding to a list of words
+* Running code when our app launches
+* Validating words with UITextChecker
