@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-30/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-31/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -274,3 +274,8 @@ REVIEW DAY
 * Adding to a list of words
 * Running code when our app launches
 * Validating words with UITextChecker
+
+#
+- [x] <b>Day 31 / Project 5, part three</b> 
+* Word Scramble: Wrap up
+* Review for Project 5: Word Scramble
