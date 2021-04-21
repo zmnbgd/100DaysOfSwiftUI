@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-31/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-32/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -279,3 +279,11 @@ REVIEW DAY
 - [x] <b>Day 31 / Project 5, part three</b> 
 * Word Scramble: Wrap up
 * Review for Project 5: Word Scramble
+
+#
+- [x] <b>Day 32 / Project 5, part three</b> 
+* Animation: Introduction
+* Creating implicit animations
+* Customizing animations in SwiftUI
+* Animating bindings
+* Creating explicit animations
