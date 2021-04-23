@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-32/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-33/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -281,9 +281,18 @@ REVIEW DAY
 * Review for Project 5: Word Scramble
 
 #
-- [x] <b>Day 32 / Project 5, part three</b> 
+- [x] <b>Day 32 / Project 6, part one</b> 
 * Animation: Introduction
 * Creating implicit animations
 * Customizing animations in SwiftUI
 * Animating bindings
 * Creating explicit animations
+
+#
+- [x] <b>Day 33 / Project 6, part two</b> 
+* Controlling the animation stack
+* Animating gestures
+* Showing and hiding views with transitions
+* Building custom transitions using ViewModifier
+
+
