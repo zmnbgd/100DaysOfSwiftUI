@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-33/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-34/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -294,5 +294,10 @@ REVIEW DAY
 * Animating gestures
 * Showing and hiding views with transitions
 * Building custom transitions using ViewModifier
+
+#
+- [x] <b>Day 34 / Project 6, part three</b> 
+* Animation: Wrap up
+* Review for Project 6: Animation
 
 
