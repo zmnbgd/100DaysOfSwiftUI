@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-35/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-36/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -305,5 +305,15 @@ REVIEW DAY
 * What you learned
 * Key points
 * Challenge
+
+#
+- [x] <b>Day 36 / Project 7, part one</b> 
+* iExpense: Introduction
+* Why @State only works with structs
+* Sharing SwiftUI state with @ObservedObject
+* Showing and hiding views
+* Deleting items using onDelete()
+* Storing user settings with UserDefaults
+* Archiving Swift objects with Codable
 
 
