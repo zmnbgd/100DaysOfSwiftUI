@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-36/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-37/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -315,5 +315,14 @@ REVIEW DAY
 * Deleting items using onDelete()
 * Storing user settings with UserDefaults
 * Archiving Swift objects with Codable
+
+#
+- [x] <b>Day 37 / Project 7, part two</b> 
+* Building a list we can delete from
+* Working with Identifiable items in SwiftUI
+* Sharing an observed object with a new view
+* Making changes permanent with UserDefaults
+* Final polish
+
 
 
