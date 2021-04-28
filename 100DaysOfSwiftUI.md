@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-38/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-39/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -328,6 +328,14 @@ REVIEW DAY
 - [x] <b>Day 38 / Project 7, part three</b> 
 * iExpense: Wrap up
 * Review for Project 7: iExpense
+
+#
+- [x] <b>Day 39 / Project 8, part one</b> 
+* Moonshot: Introduction
+* Resizing images to fit the screen using GeometryReader
+* How ScrollView lets us work with scrolling data
+* Pushing new views onto the stack using NavigationLink
+* Working with hierarchical Codable data
 
 
 
