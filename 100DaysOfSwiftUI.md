@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-37/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-38/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -323,6 +323,11 @@ REVIEW DAY
 * Sharing an observed object with a new view
 * Making changes permanent with UserDefaults
 * Final polish
+
+#
+- [x] <b>Day 38 / Project 7, part three</b> 
+* iExpense: Wrap up
+* Review for Project 7: iExpense
 
 
 
