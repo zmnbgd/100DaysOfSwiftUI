@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-39/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-40/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -336,6 +336,12 @@ REVIEW DAY
 * How ScrollView lets us work with scrolling data
 * Pushing new views onto the stack using NavigationLink
 * Working with hierarchical Codable data
+
+#
+- [x] <b>Day 40 / Project 8, part two</b> 
+* Loading a specific kind of Codable data
+* Using generics to load any kind of Codable data
+* Formatting our mission view
 
 
 
