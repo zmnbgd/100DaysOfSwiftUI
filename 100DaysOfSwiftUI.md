@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-41/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-42/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -348,6 +348,11 @@ REVIEW DAY
 * Showing mission details with ScrollView and GeometryReader
 * Merging Codable structs using first(where:)
 * Fixing problems with buttonStyle() and layoutPriority()
+
+#
+- [x] <b>Day 42 / Project 8, part four</b> 
+* Moonshot: Wrap up
+* Review for Project 8: Moonshot
 
 
 
