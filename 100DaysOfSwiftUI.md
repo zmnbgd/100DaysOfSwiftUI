@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-40/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-41/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -342,6 +342,12 @@ REVIEW DAY
 * Loading a specific kind of Codable data
 * Using generics to load any kind of Codable data
 * Formatting our mission view
+
+#
+- [x] <b>Day 41 / Project 8, part three</b> 
+* Showing mission details with ScrollView and GeometryReader
+* Merging Codable structs using first(where:)
+* Fixing problems with buttonStyle() and layoutPriority()
 
 
 
