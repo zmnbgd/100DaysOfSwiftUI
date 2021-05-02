@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-42/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-43/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -353,6 +353,13 @@ REVIEW DAY
 - [x] <b>Day 42 / Project 8, part four</b> 
 * Moonshot: Wrap up
 * Review for Project 8: Moonshot
+
+#
+- [x] <b>Day 43 / Project 9, part one</b> 
+* Drawing: Introduction
+* Creating custom paths with SwiftUI
+* Paths vs shapes in SwiftUI
+* Adding strokeBorder() support with InsettableShape
 
 
 
