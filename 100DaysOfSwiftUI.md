@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-43/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-44/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -360,6 +360,12 @@ REVIEW DAY
 * Creating custom paths with SwiftUI
 * Paths vs shapes in SwiftUI
 * Adding strokeBorder() support with InsettableShape
+
+#
+- [x] <b>Day 44 / Project 9, part two</b> 
+* Transforming shapes using CGAffineTransform and even-odd fills
+* Creative borders and fills using ImagePaint
+* Enabling high-performance Metal rendering with drawingGroup()
 
 
 
