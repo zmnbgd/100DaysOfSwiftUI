@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-45/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-46/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -373,6 +373,11 @@ REVIEW DAY
 * Animating simple shapes with animatableData
 * Animating complex shapes with AnimatablePair
 * Creating a spirograph with SwiftUI
+
+#
+- [x] <b>Day 46 / Project 9, part four</b> 
+* Drawing: Wrap up
+* Review for Project 9: Drawing
 
 
 
