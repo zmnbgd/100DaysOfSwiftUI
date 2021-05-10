@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-46/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-47/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -378,6 +378,12 @@ REVIEW DAY
 - [x] <b>Day 46 / Project 9, part four</b> 
 * Drawing: Wrap up
 * Review for Project 9: Drawing
+
+#
+- [x] <b>Day 47 / Milestone: Projects 7-9r</b> 
+* What you learned
+* Key points
+* Challenge
 
 
 
