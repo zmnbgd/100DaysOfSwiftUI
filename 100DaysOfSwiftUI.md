@@ -1,5 +1,5 @@
 ![Header](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
-![Header](https://img.shields.io/badge/completion-47/100-brightgreen.svg)
+![Header](https://img.shields.io/badge/completion-48/100-brightgreen.svg)
 
 # 100DaysOfSwiftUI
 Paul Hudson's 100 Days of SwiftUI challenge -> https://www.hackingwithswift.com/100/swiftui
@@ -384,6 +384,10 @@ REVIEW DAY
 * What you learned
 * Key points
 * Challenge
+
+#
+- [x] <b>Day 48 / Expanding your horizonsr</b> 
+* What Star Wars Can Teach Us About Swift
 
 
 
